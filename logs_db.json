@@ -1,0 +1,22 @@
+[
+  {
+    "id": "log-1781680482343-535",
+    "timestamp": "2026-06-17 07:14:42",
+    "username": "admin",
+    "name": "أ. أبو بكر زهران",
+    "role": "admin",
+    "actionAr": "قام بتسجيل الدخول الفوري للوردية وبدأ العمل بنشاط",
+    "actionEn": "Logged into system and acquired shifts workspace",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "log-1",
+    "timestamp": "2026-06-15 10:00:00",
+    "username": "system",
+    "name": "مراقبة الاتصال",
+    "role": "admin",
+    "actionAr": "تم تفعيل حزمة الأمان والحماية الحية لشبكة جرد المول بنجاح",
+    "actionEn": "Security and Audit cluster launched for the shopping mall mesh network",
+    "ip": "10.0.0.1"
+  }
+]

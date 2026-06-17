@@ -1,0 +1,24 @@
+[
+  {
+    "id": "inv-1",
+    "invoiceNumber": "INV-9921",
+    "supplierName": "جهينة لمنتجات الألبان",
+    "supplierPhone": "16630",
+    "date": "2026-06-12",
+    "items": [
+      {
+        "productId": "p-1",
+        "productNameAr": "حليب جهينة كامل الدسم 1 لتر",
+        "productNameEn": "Juhayna Full Cream Milk 1L",
+        "barcode": "6221007011012",
+        "category": "dairy",
+        "quantity": 100,
+        "buyPrice": 32.5,
+        "sellPrice": 38,
+        "expiryDate": "2026-07-20"
+      }
+    ],
+    "totalAmount": 3250,
+    "isPosted": true
+  }
+]

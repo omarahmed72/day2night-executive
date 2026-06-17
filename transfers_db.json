@@ -1,0 +1,39 @@
+[
+  {
+    "id": "tr-1",
+    "orderNumber": "TR-2026-001",
+    "date": "2026-06-14",
+    "items": [
+      {
+        "productId": "p-1",
+        "productNameAr": "حليب جهينة كامل الدسم 1 لتر",
+        "productNameEn": "Juhayna Full Cream Milk 1L",
+        "quantity": 50
+      },
+      {
+        "productId": "p-2",
+        "productNameAr": "جبنة دومتي فيتا علبة 500 جرام",
+        "productNameEn": "Domty Feta Cheese 500g",
+        "quantity": 30
+      }
+    ],
+    "status": "approved",
+    "approvedBy": "admin",
+    "lastUpdated": "2026-06-14"
+  },
+  {
+    "id": "tr-2",
+    "orderNumber": "TR-2026-002",
+    "date": "2026-06-15",
+    "items": [
+      {
+        "productId": "p-5",
+        "productNameAr": "زيت عباد الشمس كريستال 1.6 لتر",
+        "productNameEn": "Crystal Sunflower Oil 1.6L",
+        "quantity": 20
+      }
+    ],
+    "status": "pending",
+    "lastUpdated": "2026-06-15"
+  }
+]

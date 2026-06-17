@@ -1,0 +1,470 @@
+[
+  {
+    "id": "p-1",
+    "nameAr": "حليب جهينة كامل الدسم 1 لتر",
+    "nameEn": "Juhayna Full Cream Milk 1L",
+    "barcode": "6221007011012",
+    "category": "dairy",
+    "shelfStock": 120,
+    "warehouseStock": 450,
+    "minStockAlert": 100,
+    "buyPrice": 31.2,
+    "sellPrice": 38,
+    "expirationDate": "2026-07-20",
+    "supplierName": "جهينة لمنتجات الألبان",
+    "supplierPhone": "16630",
+    "batchNumber": "B-JUH-992",
+    "lastUpdated": "2026-06-10",
+    "unitsSold": 215,
+    "unitsLost": 12,
+    "batches": [
+      {
+        "id": "batch-p-1-old",
+        "buyPrice": 29.25,
+        "sellPrice": 38,
+        "quantity": 228,
+        "initialQuantity": 228,
+        "expiryDate": "2026-07-20",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-1-new",
+        "buyPrice": 32.5,
+        "sellPrice": 38,
+        "quantity": 342,
+        "initialQuantity": 342,
+        "expiryDate": "2026-07-20",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-2",
+    "nameAr": "جبنة دومتي فيتا علبة 500 جرام",
+    "nameEn": "Domty Feta Cheese 500g",
+    "barcode": "6224000329105",
+    "category": "dairy",
+    "shelfStock": 80,
+    "warehouseStock": 200,
+    "minStockAlert": 90,
+    "buyPrice": 26.88,
+    "sellPrice": 34,
+    "expirationDate": "2026-08-01",
+    "supplierName": "دومتي للأغذية",
+    "supplierPhone": "16115",
+    "batchNumber": "B-DOM-331",
+    "lastUpdated": "2026-06-12",
+    "unitsSold": 180,
+    "unitsLost": 8,
+    "batches": [
+      {
+        "id": "batch-p-2-old",
+        "buyPrice": 25.2,
+        "sellPrice": 34,
+        "quantity": 112,
+        "initialQuantity": 112,
+        "expiryDate": "2026-08-01",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-2-new",
+        "buyPrice": 28,
+        "sellPrice": 34,
+        "quantity": 168,
+        "initialQuantity": 168,
+        "expiryDate": "2026-08-01",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-3",
+    "nameAr": "زبادي طبيعي المراعي 105 جرام",
+    "nameEn": "Almarai Natural Yogurt 105g",
+    "barcode": "6281006112024",
+    "category": "dairy",
+    "shelfStock": 250,
+    "warehouseStock": 100,
+    "minStockAlert": 150,
+    "buyPrice": 6.53,
+    "sellPrice": 8.5,
+    "expirationDate": "2026-06-25",
+    "supplierName": "جهينة لمنتجات الألبان",
+    "supplierPhone": "16630",
+    "batchNumber": "B-ALM-102",
+    "lastUpdated": "2026-06-14",
+    "unitsSold": 310,
+    "unitsLost": 22,
+    "batches": [
+      {
+        "id": "batch-p-3-old",
+        "buyPrice": 6.12,
+        "sellPrice": 8.5,
+        "quantity": 140,
+        "initialQuantity": 140,
+        "expiryDate": "2026-06-25",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-3-new",
+        "buyPrice": 6.8,
+        "sellPrice": 8.5,
+        "quantity": 210,
+        "initialQuantity": 210,
+        "expiryDate": "2026-06-25",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-4",
+    "nameAr": "مكرونة ريجينا بنة (قلم) 400 جرام",
+    "nameEn": "Regina Penne Pasta 400g",
+    "barcode": "6221034002427",
+    "category": "groceries",
+    "shelfStock": 15,
+    "warehouseStock": 0,
+    "minStockAlert": 50,
+    "buyPrice": 17.28,
+    "sellPrice": 22,
+    "expirationDate": "2026-05-10",
+    "supplierName": "دومتي للأغذية",
+    "supplierPhone": "16115",
+    "batchNumber": "B-REG-011",
+    "lastUpdated": "2026-06-01",
+    "unitsSold": 140,
+    "unitsLost": 0,
+    "batches": [
+      {
+        "id": "batch-p-4-old",
+        "buyPrice": 16.2,
+        "sellPrice": 22,
+        "quantity": 6,
+        "initialQuantity": 6,
+        "expiryDate": "2026-05-10",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-4-new",
+        "buyPrice": 18,
+        "sellPrice": 22,
+        "quantity": 9,
+        "initialQuantity": 9,
+        "expiryDate": "2026-05-10",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-5",
+    "nameAr": "زيت عباد الشمس كريستال 1.6 لتر",
+    "nameEn": "Crystal Sunflower Oil 1.6L",
+    "barcode": "6221324551093",
+    "category": "groceries",
+    "shelfStock": 45,
+    "warehouseStock": 120,
+    "minStockAlert": 40,
+    "buyPrice": 115.2,
+    "sellPrice": 145,
+    "expirationDate": "2026-08-10",
+    "supplierName": "دومتي للأغذية",
+    "supplierPhone": "16115",
+    "batchNumber": "B-CRY-880",
+    "lastUpdated": "2026-06-11",
+    "unitsSold": 95,
+    "unitsLost": 3,
+    "batches": [
+      {
+        "id": "batch-p-5-old",
+        "buyPrice": 108,
+        "sellPrice": 145,
+        "quantity": 66,
+        "initialQuantity": 66,
+        "expiryDate": "2026-08-10",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-5-new",
+        "buyPrice": 120,
+        "sellPrice": 145,
+        "quantity": 99,
+        "initialQuantity": 99,
+        "expiryDate": "2026-08-10",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-6",
+    "nameAr": "فراخ كوكي مجمده صدور بانيه 1 كيلو",
+    "nameEn": "Koki Frozen Chicken Pane 1kg",
+    "barcode": "6221056441019",
+    "category": "meat",
+    "shelfStock": 60,
+    "warehouseStock": 180,
+    "minStockAlert": 50,
+    "buyPrice": 158.4,
+    "sellPrice": 195,
+    "expirationDate": "2026-12-15",
+    "supplierName": "الشركة المصرية لتجارة اللحوم",
+    "supplierPhone": "0223456789",
+    "batchNumber": "B-KOK-404",
+    "lastUpdated": "2026-06-05",
+    "unitsSold": 120,
+    "unitsLost": 5,
+    "batches": [
+      {
+        "id": "batch-p-6-old",
+        "buyPrice": 148.5,
+        "sellPrice": 195,
+        "quantity": 96,
+        "initialQuantity": 96,
+        "expiryDate": "2026-12-15",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-6-new",
+        "buyPrice": 165,
+        "sellPrice": 195,
+        "quantity": 144,
+        "initialQuantity": 144,
+        "expiryDate": "2026-12-15",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-7",
+    "nameAr": "تفاح أحمر سكري إيطالي طازج 1 كيلو",
+    "nameEn": "Fresh Italian Red Apple 1kg",
+    "barcode": "0000000000101",
+    "category": "produce",
+    "shelfStock": 90,
+    "warehouseStock": 150,
+    "minStockAlert": 60,
+    "buyPrice": 57.6,
+    "sellPrice": 75,
+    "expirationDate": "2026-06-30",
+    "supplierName": "مزارع دينا للفواكه والخضار",
+    "supplierPhone": "19044",
+    "batchNumber": "B-APP-772",
+    "lastUpdated": "2026-06-14",
+    "unitsSold": 85,
+    "unitsLost": 15,
+    "batches": [
+      {
+        "id": "batch-p-7-old",
+        "buyPrice": 54,
+        "sellPrice": 75,
+        "quantity": 96,
+        "initialQuantity": 96,
+        "expiryDate": "2026-06-30",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-7-new",
+        "buyPrice": 60,
+        "sellPrice": 75,
+        "quantity": 144,
+        "initialQuantity": 144,
+        "expiryDate": "2026-06-30",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-8",
+    "nameAr": "كرواسون زبدة طازج بالشوكولاتة (حبة)",
+    "nameEn": "Fresh Butter Chocolate Croissant",
+    "barcode": "0000000000202",
+    "category": "bakery",
+    "shelfStock": 40,
+    "warehouseStock": 0,
+    "minStockAlert": 20,
+    "buyPrice": 11.52,
+    "sellPrice": 18,
+    "expirationDate": "2026-06-18",
+    "supplierName": "مخبوزات وحلويات داي تو نايت",
+    "supplierPhone": "داخلي",
+    "batchNumber": "B-BAK-151",
+    "lastUpdated": "2026-06-15",
+    "unitsSold": 240,
+    "unitsLost": 28,
+    "batches": [
+      {
+        "id": "batch-p-8-old",
+        "buyPrice": 10.8,
+        "sellPrice": 18,
+        "quantity": 16,
+        "initialQuantity": 16,
+        "expiryDate": "2026-06-18",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-8-new",
+        "buyPrice": 12,
+        "sellPrice": 18,
+        "quantity": 24,
+        "initialQuantity": 24,
+        "expiryDate": "2026-06-18",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-9",
+    "nameAr": "مسحوق غسيل أريال للغسالات الأوتوماتيك 4 كيلو",
+    "nameEn": "Ariel Automatic Detergent 4kg",
+    "barcode": "4015600508561",
+    "category": "cleaning",
+    "shelfStock": 50,
+    "warehouseStock": 150,
+    "minStockAlert": 30,
+    "buyPrice": 268.8,
+    "sellPrice": 320,
+    "expirationDate": "2029-06-15",
+    "supplierName": "هلال ومصيلحي للمنظفات",
+    "supplierPhone": "01012345678",
+    "batchNumber": "B-ARI-202",
+    "lastUpdated": "2026-06-15",
+    "unitsSold": 60,
+    "unitsLost": 2,
+    "batches": [
+      {
+        "id": "batch-p-9-old",
+        "buyPrice": 252,
+        "sellPrice": 320,
+        "quantity": 80,
+        "initialQuantity": 80,
+        "expiryDate": "2029-06-15",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-9-new",
+        "buyPrice": 280,
+        "sellPrice": 320,
+        "quantity": 120,
+        "initialQuantity": 120,
+        "expiryDate": "2029-06-15",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-10",
+    "nameAr": "شوكولاتة جالاكسي بندق 36 جرام",
+    "nameEn": "Galaxy Hazelnut Chocolate 36g",
+    "barcode": "6221198081115",
+    "category": "bakery",
+    "shelfStock": 140,
+    "warehouseStock": 300,
+    "minStockAlert": 80,
+    "buyPrice": 14.4,
+    "sellPrice": 19,
+    "expirationDate": "2026-06-05",
+    "supplierName": "دومتي للأغذية",
+    "supplierPhone": "16115",
+    "batchNumber": "B-GAL-301",
+    "lastUpdated": "2026-05-20",
+    "unitsSold": 450,
+    "unitsLost": 10,
+    "batches": [
+      {
+        "id": "batch-p-10-old",
+        "buyPrice": 13.5,
+        "sellPrice": 19,
+        "quantity": 176,
+        "initialQuantity": 176,
+        "expiryDate": "2026-06-05",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-10-new",
+        "buyPrice": 15,
+        "sellPrice": 19,
+        "quantity": 264,
+        "initialQuantity": 264,
+        "expiryDate": "2026-06-05",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-11",
+    "nameAr": "معجون أسنان كولجيت حماية مكثفة 75 مل",
+    "nameEn": "Colgate Max Fresh Toothpaste 75ml",
+    "barcode": "8718951234567",
+    "category": "cosmetics",
+    "shelfStock": 15,
+    "warehouseStock": 80,
+    "minStockAlert": 25,
+    "buyPrice": 36.48,
+    "sellPrice": 46,
+    "expirationDate": "2027-02-15",
+    "supplierName": "هلال ومصيلحي للمنظفات",
+    "supplierPhone": "01012345678",
+    "batchNumber": "B-COL-711",
+    "lastUpdated": "2026-06-03",
+    "unitsSold": 75,
+    "unitsLost": 1,
+    "batches": [
+      {
+        "id": "batch-p-11-old",
+        "buyPrice": 34.2,
+        "sellPrice": 46,
+        "quantity": 38,
+        "initialQuantity": 38,
+        "expiryDate": "2027-02-15",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-11-new",
+        "buyPrice": 38,
+        "sellPrice": 46,
+        "quantity": 57,
+        "initialQuantity": 57,
+        "expiryDate": "2027-02-15",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  },
+  {
+    "id": "p-12",
+    "nameAr": "خلاط تورنيدو 1.5 لتر 600 وات مطحنة",
+    "nameEn": "Tornado Blender 1.5L 600W",
+    "barcode": "6222019011244",
+    "category": "electronics",
+    "shelfStock": 8,
+    "warehouseStock": 14,
+    "minStockAlert": 5,
+    "buyPrice": 1060,
+    "sellPrice": 1350,
+    "expirationDate": "2031-12-30",
+    "supplierName": "العربي جروب للأجهزة",
+    "supplierPhone": "19319",
+    "batchNumber": "B-TOR-001",
+    "lastUpdated": "2026-06-11",
+    "unitsSold": 18,
+    "unitsLost": 0,
+    "batches": [
+      {
+        "id": "batch-p-12-old",
+        "buyPrice": 990,
+        "sellPrice": 1350,
+        "quantity": 8,
+        "initialQuantity": 8,
+        "expiryDate": "2031-12-30",
+        "dateAdded": "2026-05-15"
+      },
+      {
+        "id": "batch-p-12-new",
+        "buyPrice": 1100,
+        "sellPrice": 1350,
+        "quantity": 14,
+        "initialQuantity": 14,
+        "expiryDate": "2031-12-30",
+        "dateAdded": "2026-06-12"
+      }
+    ]
+  }
+]

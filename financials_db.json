@@ -1,0 +1,162 @@
+{
+  "accounts": [
+    {
+      "code": "101",
+      "name": "خزينة الكاشير والصندوق",
+      "type": "debit",
+      "balance": 45000
+    },
+    {
+      "code": "102",
+      "name": "الحساب البنكي التجاري الدولي",
+      "type": "debit",
+      "balance": 250000
+    },
+    {
+      "code": "103",
+      "name": "الأصول الثابتة (رفوف، ثلاجات، عقارات)",
+      "type": "debit",
+      "balance": 180000
+    },
+    {
+      "code": "104",
+      "name": "بضاعة المخزن وأرصدة السلع",
+      "type": "debit",
+      "balance": 95000
+    },
+    {
+      "code": "105",
+      "name": "ذمم حسابات العملاء والبيع بالآجل (A/R)",
+      "type": "debit",
+      "balance": 15000
+    },
+    {
+      "code": "201",
+      "name": "رأس المال المدفوع التأسيسي",
+      "type": "credit",
+      "balance": 450000
+    },
+    {
+      "code": "202",
+      "name": "قروض تمويلية وأقساط بنكية معلقة",
+      "type": "credit",
+      "balance": 120000
+    },
+    {
+      "code": "203",
+      "name": "ذمم حسابات الموردين والدائنين التجارية (A/P)",
+      "type": "credit",
+      "balance": 22000
+    },
+    {
+      "code": "301",
+      "name": "إيرادات المبيعات المحققة",
+      "type": "credit",
+      "balance": 0
+    },
+    {
+      "code": "401",
+      "name": "تكلفة البضاعة المباعة (مشتريات)",
+      "type": "debit",
+      "balance": 0
+    },
+    {
+      "code": "402",
+      "name": "مصاريف إهلاك الأصول ورأس المال الهالك",
+      "type": "debit",
+      "balance": 0
+    },
+    {
+      "code": "403",
+      "name": "مصاريف هالك وتلفيات البضاعة",
+      "type": "debit",
+      "balance": 0
+    },
+    {
+      "code": "501",
+      "name": "حساب ضريبة القيمة المضافة المحصلة (14% VAT)",
+      "type": "credit",
+      "balance": 0
+    }
+  ],
+  "journal": [
+    {
+      "id": "j-1",
+      "date": "2026-06-14",
+      "desc": "قيد إثبات بضاعة أول المدة ورأس المال التأسيسي",
+      "debitCode": "104",
+      "creditCode": "201",
+      "amount": 95000,
+      "postedBy": "system",
+      "isDraft": false
+    },
+    {
+      "id": "j-2",
+      "date": "2026-06-15",
+      "desc": "سلفة قرض بنكي بقيمة 120,000 ج.م لشراء ثلاجة تبريد للمول",
+      "debitCode": "101",
+      "creditCode": "202",
+      "amount": 120000,
+      "postedBy": "admin",
+      "isDraft": false
+    }
+  ],
+  "assets": [
+    {
+      "id": "a-1",
+      "name": "ثلاجة تبريد جهينة الكبرى (عرض)",
+      "originalValue": 85000,
+      "currentValue": 81000,
+      "salvageValue": 5000,
+      "rate": 10,
+      "acquiredDate": "2026-01-10",
+      "notes": "إهلاك خطي سنوي بمعدل 10%"
+    },
+    {
+      "id": "a-2",
+      "name": "أنظمة حواسب كاشير وبوابات باركود فرنسية",
+      "originalValue": 35000,
+      "currentValue": 32000,
+      "salvageValue": 2000,
+      "rate": 15,
+      "acquiredDate": "2026-02-15",
+      "notes": "معدل إهلاك للمعدات التقنية 15%"
+    },
+    {
+      "id": "a-3",
+      "name": "سيارة شيفرولية نقل سلع وتوزيع داخلي",
+      "originalValue": 120000,
+      "currentValue": 112000,
+      "salvageValue": 20000,
+      "rate": 8,
+      "acquiredDate": "2026-03-01",
+      "notes": "تخدم نقل البضائع بين الفروع والمخزن"
+    }
+  ],
+  "loans": [
+    {
+      "id": "l-1",
+      "lender": "البنك الأهلي المصري",
+      "loanAmount": 120000,
+      "rate": 12,
+      "termMonths": 12,
+      "startDate": "2026-06-15",
+      "installmentsPaid": 0,
+      "nextDueDate": "2026-07-15",
+      "paidAmount": 0,
+      "status": "active"
+    },
+    {
+      "id": "l-2",
+      "lender": "المورد شقير جروب للمعلبات",
+      "loanAmount": 45000,
+      "rate": 0,
+      "termMonths": 6,
+      "startDate": "2026-06-01",
+      "installmentsPaid": 1,
+      "nextDueDate": "2026-07-01",
+      "paidAmount": 7500,
+      "status": "active"
+    }
+  ]
+}

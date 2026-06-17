@@ -1,0 +1,50 @@
+[
+  {
+    "id": "sup-1",
+    "nameAr": "جهينة لمنتجات الألبان",
+    "nameEn": "Juhayna Dairy Corp",
+    "phone": "16630",
+    "email": "info@juhayna.com",
+    "category": "dairy"
+  },
+  {
+    "id": "sup-2",
+    "nameAr": "دومتي للأغذية",
+    "nameEn": "Domty Foods",
+    "phone": "16115",
+    "email": "sales@domty.com",
+    "category": "dairy"
+  },
+  {
+    "id": "sup-3",
+    "nameAr": "الشركة المصرية لتجارة اللحوم",
+    "nameEn": "Egyptian Meat Co",
+    "phone": "0223456789",
+    "email": "meat@egyptian.com",
+    "category": "meat"
+  },
+  {
+    "id": "sup-4",
+    "nameAr": "مزارع دينا للفواكه والخضار",
+    "nameEn": "Dina Farms",
+    "phone": "19044",
+    "email": "produce@dinafarms.com",
+    "category": "produce"
+  },
+  {
+    "id": "sup-5",
+    "nameAr": "هلال ومصيلحي للمنظفات",
+    "nameEn": "Helal & Moselhy Soap",
+    "phone": "01012345678",
+    "email": "helal@clean.com",
+    "category": "cleaning"
+  },
+  {
+    "id": "sup-6",
+    "nameAr": "العربي جروب للأجهزة",
+    "nameEn": "El-Araby Group",
+    "phone": "19319",
+    "email": "service@elaraby.com",
+    "category": "electronics"
+  }
+]

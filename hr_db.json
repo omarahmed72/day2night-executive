@@ -1,0 +1,63 @@
+{
+  "attendance": [
+    {
+      "username": "admin",
+      "date": "2026-06-14",
+      "clockIn": "08:45 AM",
+      "clockOut": "05:15 PM",
+      "status": "present"
+    },
+    {
+      "username": "warehouse",
+      "date": "2026-06-14",
+      "clockIn": "08:55 AM",
+      "clockOut": "05:00 PM",
+      "status": "present"
+    },
+    {
+      "username": "cashier",
+      "date": "2026-06-14",
+      "clockIn": "09:00 AM",
+      "clockOut": "05:10 PM",
+      "status": "present"
+    },
+    {
+      "username": "warehouse",
+      "date": "2026-06-15",
+      "clockIn": "08:50 AM",
+      "clockOut": "05:05 PM",
+      "status": "present"
+    },
+    {
+      "username": "cashier",
+      "date": "2026-06-15",
+      "clockIn": "09:02 AM",
+      "clockOut": "04:55 PM",
+      "status": "present"
+    }
+  ],
+  "leaves": [
+    {
+      "id": "v-1",
+      "username": "cashier",
+      "nameAr": "سارة الجياد",
+      "type": "طارئة",
+      "startDate": "2026-06-20",
+      "endDate": "2026-06-22",
+      "days": 2,
+      "reason": "فحوص طبية عائلية",
+      "status": "approved"
+    },
+    {
+      "id": "v-2",
+      "username": "warehouse",
+      "nameAr": "أحمد عبد العال",
+      "type": "سنوية",
+      "startDate": "2026-07-01",
+      "endDate": "2026-07-06",
+      "days": 5,
+      "reason": "إجازة مصيف سنوي مع الأسرة",
+      "status": "pending"
+    }
+  ]
+}

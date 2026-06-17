@@ -1,0 +1,29 @@
+[
+  {
+    "username": "admin",
+    "nameAr": "أ. أبو بكر زهران",
+    "nameEn": "Mr. Abu Bakr",
+    "role": "admin",
+    "password": "123",
+    "status": "online",
+    "lastLogin": "2026-06-17 07:14"
+  },
+  {
+    "username": "warehouse",
+    "nameAr": "م. أحمد عبد العال",
+    "nameEn": "Eng. Ahmad",
+    "role": "warehouse",
+    "password": "456",
+    "status": "offline",
+    "lastLogin": "-"
+  },
+  {
+    "username": "cashier",
+    "nameAr": "سارة الجياد",
+    "nameEn": "Sarah Al-Jiad",
+    "role": "cashier",
+    "password": "789",
+    "status": "offline",
+    "lastLogin": "-"
+  }
+]
