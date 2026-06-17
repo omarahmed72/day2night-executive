@@ -5,7 +5,7 @@ import { createServer as createViteServer } from "vite";
 import { GoogleGenAI, Type } from "@google/genai";
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 const DB_FILE = path.join(process.cwd(), "products_db.json");
 
 app.use(express.json({ limit: "50mb" }));
