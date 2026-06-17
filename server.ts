@@ -2637,7 +2637,7 @@ app.post("/api/products/discounts/bulk", (req, res) => {
 
 // Enable Vite middleware in development or serve built files in production
 async function startServer() {
-  if (process.env.NODE_ENV !== "production") {
+  if (process.env.NODE_ENV === "development") {
     const vite = await createViteServer({
       server: { middlewareMode: true },
       appType: "spa",
